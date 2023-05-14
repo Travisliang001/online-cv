@@ -3,30 +3,24 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Edward Xia
-title: IT Project Engineer
-email: vigoose@gmail.com
-phone: 201-783-9068
-website: https://vigoose.github.io/online-cv/
+name: Travis Liang
+title: Software Developer
+email: travisliang001@gmail.com
+phone: 626-376-0850
+website: https://travisliang001.github.io/online-cv/
 
 # Social links
-twitter_username: vigoose
-github_username:  vigoose
-facebook_username: vigoose.xia
-instagram_username: vigoose
-linkedin_username: yuanyexia
+
+github_username:  travisliang001
+linkedin_username: jcliang
 
 
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/fullsizeoil_profile_photo2-426-edit-edit_002.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi My name is Edward and I am a Software Engineer currently live in Redwood City, CA, below are some highlights of myself:
-   - Two Master degrees in Information Systems with Six year IT-specific projects experience. 
-   - Software Engineer in Full Stack development with strong problem-solving ability and business analysis skills.          
-    
-      
-  I like <mark>Challenging Work</mark> also a <mark>Beef Lover</mark>.
+ Greetings! I am Travis, a Software Developer based in the sunny city of Los Angeles, CA.
+ I have a relentless passion for learning new technology and leveraging it to solve complex problems. I am constantly seeking to expand my skill set and thrive on collaborating with like-minded individuals on creative projects. In addition to my software expertise, I also have a green thumb for gardening and a knack for making mouth-watering sushi! Currently, I am pursuing a Master's degree in Computer Science at the esteemed Georgia Institute of Technology.
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
