@@ -33,8 +33,8 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  Love basketball, music, anime, also a HardCore Gamer, interested in everything that might interesting, people empathy oriented.
+# more_content: | # this will include new lines to allow paragraphs
+#   Love basketball, music, anime, also a HardCore Gamer, interested in everything that might interesting, people empathy oriented.
 
 # Footer
 footer_show_references: true
