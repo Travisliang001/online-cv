@@ -1,0 +1,17 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="image" property="og:image" content="https://images.unsplash.com/photo-1524861646941-b897e7f18230?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80">
+  <meta name="author" content="Edward Xia">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ site.name }} | {{ site.title }}</title>
+  {%- seo title=false -%}
+
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}">
+
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+</head>

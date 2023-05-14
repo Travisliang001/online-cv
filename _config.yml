@@ -1,0 +1,57 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Edward Xia
+title: IT Project Engineer
+email: vigoose@gmail.com
+phone: 201-783-9068
+website: https://vigoose.github.io/online-cv/
+
+# Social links
+twitter_username: vigoose
+github_username:  vigoose
+facebook_username: vigoose.xia
+instagram_username: vigoose
+linkedin_username: yuanyexia
+
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/fullsizeoil_profile_photo2-426-edit-edit_002.JPG
+about_content: | # this will include new lines to allow paragraphs
+  Hi My name is Edward and I am a Software Engineer currently live in Redwood City, CA, below are some highlights of myself:
+   - Two Master degrees in Information Systems with Six year IT-specific projects experience. 
+   - Software Engineer in Full Stack development with strong problem-solving ability and business analysis skills.          
+    
+      
+  I like <mark>Challenging Work</mark> also a <mark>Beef Lover</mark>.
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  Love basketball, music, anime, also a HardCore Gamer, interested in everything that might interesting, people empathy oriented.
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
