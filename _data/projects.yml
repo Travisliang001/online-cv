@@ -10,18 +10,12 @@
     - Implemented authentication workflows with Google OAuth authentication and Implemented credit cards handling and payment receiving from users with Stripe. **– Google OAuth, Stripe API**
     - Extracted and loaded survey/feedback data into MongoDB to generate analysis report with charts and implemented data interaction with Webhook to awaits user’s feedback sending through click functions. **– MongoDB, Mongoose, Webhook**
 
-- name: Mobile App Development – Staff Management System
-  github: https://github.com/Vigoose/ReactNativeManager
+- name: Civic Tech Index - Hack For LA
+  job_title: Frontend Developer
+  dates: Apr 2021 - OCt 2021
+  link: http://civictechindex.org/organization/open-oakland
   quote: >
-    Designed and built a mobile app using React Native which provides multiple features such as adding/editing/firing people for employers in Both iOS and Android platforms.
+      Our goal of the project is to create a comprehensive, searchable index of all civic tech open source software projects around the world. We have created the framework and an interest list. We are currently working on building out the website and other marketing tools that demonstrate the power of the index.
   description: | # this will include new lines to allow paragraphs
-    - Implemented user authentication using Firebase and navigation using React-Native-Router-Flux managed by Redux/Redux Thunk. **– React-Native, Redux, Redux Thunk, React-Native-Router-Flux**
-    - Utilized Redux workflow to manage states and implement quick re-render without notice. **– Redux Store**
-    - Optimized user experiences using firebase snapshot to keep user in touch with newest data and spinning/Modal to implement waiting states.
-
-- name: Sentimental Analysis of Tweets
-  description: | # this will include new lines to allow paragraphs
-    - Built a customized sentiment dictionary to analyze positive/negative attitudes for Toyota Camry model in one-year Tweets hash-tagged with ‘Toyota’ and ‘Camry’.
-    - Pre-processed about 500G raw data by word counting utilizing Hadoop MapReduce and loaded processed data about 10G into AWS S3. **– Hadoop MapReduce, AWS S3**
-    - Captured sentimental tweets from Twitter using Twitter API and Topsy API. **– Twitter API, Topsy API**
-    - Utilized AFINN word list for sentiment analysis and found out that ‘fuel’ is the most important weight to gain positive attitudes for Toyota Camry and it does a good job on fuel saving compared to other car brands.
+    - Collaborated with cross-functional teams including designers, developers, and product managers to develop a web portal that centralized open-source civic tech projects from across the globe.
+    - Utilized React and Material-UI as front-end technologies to create an individual organization page with detailed project information.
