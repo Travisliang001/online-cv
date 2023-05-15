@@ -1,9 +1,8 @@
 # Project template
-- name: Survey Service Web Application
-  link: https://floating-atoll-86805.herokuapp.com/
-  github: https://github.com/Vigoose/FullStackEmaily
+- name: Kurie AI-powered E-Commerce Mobile App
+  link: https://apps.apple.com/us/app/kurie/id6444382676
   quote: >
-    Full-stack web application from scratch which provides automatic survey generation and delivery features for paid users and deployed to cloud by Heroku.
+    Kurie, AI-powered online community platform is the ultimate destination for product enthusiasts, where individuals can learn, discuss, and share their experiences with a wide range of products, facilitated by a chatbot that provides personalized responses based on domain-specific knowledge.
   description: | # this will include new lines to allow paragraphs
     - Utilized React and Redux as front-end technologies to manage the interaction and display of the website, utilized NodeJS and Express as backend service to provides feature logics. **– React, React Router, Redux, NodeJS, Express**
     - Implemented authentication workflows with Google OAuth authentication and Implemented credit cards handling and payment receiving from users with Stripe. **– Google OAuth, Stripe API**
