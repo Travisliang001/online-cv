@@ -1,39 +1,20 @@
 # Experience template
-- company: Oracle America
-  link: https://www.oracle.com/index.html
-  job_title: Software Engineer
-  dates: Jan 2020 - Now
+- company: Farmers Insurance
+  link: https://www.farmers.com/
+  job_title: Software Developer
+  dates: Sep 2020 - Current
   description: | # this will include new lines to allow paragraphs
-    - Design and implement new features for Oracle’s core Private Cloud Appliance (PCA) functionality
-    - Implement, improve, and deploy component-level microservice via Kubernetes cluster, communicate upgrade information L1 API through RabbitMQ to user interface
-    - Integrate Oracle Sauron with visual log UI extracted from elastic search and Prometheus of deployed health check pods on Kubernetes Cluster
-    - Perform root cause analysis for bugs seen in QE and at customer installations
+    -	Designed and implemented a scalable RapidRate RESTful Spring Boot API that streamlines the process of obtaining comparative quotes for Farmers Insurance agents by translating customer policy information into other subsidiary company standards and using it to call subsidiary quote API, reducing the time taken for 5000+ agents across 30+ states to retrieve comparative quotes from average 10 minutes to just 15 seconds. 
+    -	Architected and developed a web-based eForm application using React, AWS Lambda, S3, API Gateway, and DynamoDB, with Okta authentication, to enable efficient retrieval, uploading, and searching of policy forms. 
+    -	Built a role-based access control Flask and Python internal web application that streamlines deployment request workflows for developers. The application presents Github pull requests to managers for review, allowing for efficient and effective approval or rejection decisions. Upon approval, the application triggers automated deployments in Jenkins, optimizing the entire deployment process.	
 
 
-- company: Sinopec USA Inc
-  link: global.epec.com
-  job_title: IT Project Engineer
-  dates: June 2014 - April 2019 (4 years 10 months)
-  quote: |
-    "EPEC" design, system integration and initiation. [EPEC.COM](https://global.epec.com) . 
-    As China's one of the largest oil and gas Company with over 30 yearsprofessional procurement experience and supply chain resources, Sinopectried to build and share a trading e-commerce platform establishing theconnection between US and China.  
-    Participating the entire development life cycle of EPEC global website.
+- company: Recondo Technology
+  link: www.recondotech.com
+  job_title: Software Developer intern
+  dates: May 2019 - Aug 2020 
   description: | # this will include new lines to allow paragraphs
-    - Worked as a technical role to cooperate and implement the industrial e-commerce project and took responsibility of technologies implementation andbusiness requirement design.
-    - Designed and implemented workflows to integrate legacy systems (SAP/ERP, Material Management System and Global Supplier ManagementSystem) into a distributed e-commerce web application which supports EPEC's business.
-    - Optimized the website performance by adding CDN and browser cache andallocating servers in different locales.
-    - Performed unit testing and function testing in Java which covered over 80%code base. **– Unit Testing, Function Testing**
-    
+    - Designed and implemented ClaimStatusPlus java Selenium Based Reconbot to automatically query payer websites and then retrieve, normalize and present critical information about claim status products.
+    - Performed root cause analysis for bugs seen in QA and provided clean solution to fix the production issues.
 
-- company: Holtzbrinck Publishing Group
-  link: https://www.holtzbrinck.com/
-  job_title: Sortware Engineer
-  dates: Dec 2013 - May 2014 (7 months)    
-  description: | # this will include new lines to allow paragraphs
-    - Leading the entire system development process
-    - Business Process and workflow analysis, user requirement gathering
-    - ER-Diagram and database design.• Using MVC and entity framework develop complete system from backendto front-end.
-    - QA Testing and User cases documentation.
-    
- 
-    
+      
