@@ -14,7 +14,7 @@
   job_title: Software Developer intern
   dates: May 2019 - Aug 2020 
   description: | # this will include new lines to allow paragraphs
-    - Designed and implemented ClaimStatusPlus java Selenium Based Reconbot to automatically query payer websites and then retrieve, normalize and present critical information about claim status products.
+    - Designed and implemented ClaimStatusPlus java Selenium Based Reconbot to automatically query payer websites and then retrieve, normalize and present critical information about claim status products. **– Java Selenium**
     - Performed root cause analysis for bugs seen in QA and provided clean solution to fix the production issues.
 
       
