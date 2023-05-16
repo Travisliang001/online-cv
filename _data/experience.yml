@@ -4,9 +4,9 @@
   job_title: Software Developer
   dates: Sep 2020 - Current
   description: | # this will include new lines to allow paragraphs
-    -	Designed and implemented a scalable RapidRate RESTful Spring Boot API that streamlines the process of obtaining comparative quotes for Farmers Insurance agents by translating customer policy information into other subsidiary company standards and using it to call subsidiary quote API, reducing the time taken for 5000+ agents across 30+ states to retrieve comparative quotes from average 10 minutes to just 15 seconds. 
-    -	Architected and developed a web-based eForm application using React, AWS Lambda, S3, API Gateway, and DynamoDB, with Okta authentication, to enable efficient retrieval, uploading, and searching of policy forms. 
-    -	Built a role-based access control Flask and Python internal web application that streamlines deployment request workflows for developers. The application presents Github pull requests to managers for review, allowing for efficient and effective approval or rejection decisions. Upon approval, the application triggers automated deployments in Jenkins, optimizing the entire deployment process.	
+    -	Designed and implemented a scalable RapidRate RESTful Spring Boot API that streamlines the process of obtaining comparative quotes for Farmers Insurance agents by translating customer policy information into other subsidiary company standards and using it to call subsidiary quote API, reducing the time taken for 5000+ agents across 30+ states to retrieve comparative quotes from average 10 minutes to just 15 seconds.  **– SpringBoot**
+    -	Architected and developed a web-based eForm application using ReactJS, AWS Lambda, S3, API Gateway, and DynamoDB, with Okta authentication, to enable efficient retrieval, uploading, and searching of policy forms.  **– AWS Stack, ReactJS**
+    -	Built a role-based access control Flask and Python internal web application that streamlines deployment request workflows for developers. The application presents Github pull requests to managers for review, allowing for efficient and effective approval or rejection decisions. Upon approval, the application triggers automated deployments in Jenkins, optimizing the entire deployment process.	**– Python, Flask, Jenkins**
 
 
 - company: Recondo Technology
