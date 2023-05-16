@@ -6,9 +6,8 @@
   quote: >
     Kurie, AI-powered online community platform is the ultimate destination for product enthusiasts, where individuals can learn, discuss, and share their experiences with a wide range of products, facilitated by a chatbot that provides personalized responses based on domain-specific knowledge.
   description: | # this will include new lines to allow paragraphs
-    - Utilized React and Redux as front-end technologies to manage the interaction and display of the website, utilized NodeJS and Express as backend service to provides feature logics. **– React, React Router, Redux, NodeJS, Express**
-    - Implemented authentication workflows with Google OAuth authentication and Implemented credit cards handling and payment receiving from users with Stripe. **– Google OAuth, Stripe API**
-    - Extracted and loaded survey/feedback data into MongoDB to generate analysis report with charts and implemented data interaction with Webhook to awaits user’s feedback sending through click functions. **– MongoDB, Mongoose, Webhook**
+    - Led the development of the Kurie mobile app as the lead frontend engineer, utilizing the Bloc state management in dart and flutter to enhance code quality and maintainability. **– Flutter, Dart**
+    - Designed and implemented beta version of AI-chatbot python backend API, utilizing the Langchain tool and Pinecone for long-term memory support, which enabled the chatbot to access domain-specific knowledge to provide personalized responses to customer queries. **– Python, Pinecone, FastAPI, OpenAI API, LangChain**
 
 - name: Civic Tech Index - Hack For LA
   job_title: Frontend Developer
@@ -18,4 +17,4 @@
       Our goal of the project is to create a comprehensive, searchable index of all civic tech open source software projects around the world. We have created the framework and an interest list. We are currently working on building out the website and other marketing tools that demonstrate the power of the index.
   description: | # this will include new lines to allow paragraphs
     - Collaborated with cross-functional teams including designers, developers, and product managers to develop a web portal that centralized open-source civic tech projects from across the globe.
-    - Utilized React and Material-UI as front-end technologies to create an individual organization page with detailed project information.
+    - Utilized React and Material-UI as front-end technologies to create an individual organization page with detailed project information. **– ReactJS, material-ui**
