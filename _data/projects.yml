@@ -1,13 +1,13 @@
 # Project template
 - name: Kurie AI-powered E-Commerce Mobile App
   link: https://apps.apple.com/us/app/kurie/id6444382676
-  job_title: Fullstack Developer, LLM Developer
+  job_title: Fullstack Developer
   dates: Feb 2023 - Current
   quote: >
     Kurie, AI-powered online community platform is the ultimate destination for product enthusiasts, where individuals can learn, discuss, and share their experiences with a wide range of products, facilitated by a chatbot that provides personalized responses based on domain-specific knowledge.
   description: | # this will include new lines to allow paragraphs
     - Led the development of the Kurie mobile app as the lead frontend engineer, utilizing the Bloc state management in dart and flutter to enhance code quality and maintainability. **– Flutter, Dart**
-    - Designed and implemented beta version of AI-chatbot python backend API, utilizing the Langchain tool and Pinecone for long-term memory support, which enabled the chatbot to access domain-specific knowledge to provide personalized responses to customer queries. **– Python, Pinecone, FastAPI, OpenAI API, LangChain**
+    - Designed and implemented beta version of AI-chatbot utilizing FastAPI Python framework, Langchain tool and Pinecone for long-term memory support, and enable the chatbot to access domain-specific knowledge to provide personalized responses to customer queries. **– Python, Pinecone, FastAPI, OpenAI API, LangChain**
 
 - name: Civic Tech Index - Hack For LA
   job_title: Frontend Developer
