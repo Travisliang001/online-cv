@@ -4,11 +4,12 @@
   job_title: Software Developer
   dates: Sep 2020 - Current
   description: | # this will include new lines to allow paragraphs
-    -	Designed and implemented a scalable RapidRate RESTful Spring Boot API that streamlines the process of obtaining comparative quotes by translating customer policy information into other subsidiary company standards and orchestrating calls to the subsidiary quote API, reducing the time taken for ~5000 daily active agents across more than 30 states to retrieve comparative quotes from average 10 minutes to just 15 seconds.  **– SpringBoot, tomcat**
-    -	Architected and developed end-to-end web application using ReactJS and RESTful API based Serverless architecture with AWS Lambda, S3, API Gateway, and DynamoDB to enable efficient retrieval, uploading, and searching of policy forms.  **– AWS Stack, ReactJS**
-    -	Developed deployment approval portal integrated with OKTA OIDC, employing the Model-View-Controller (MVC) design pattern, and utilizing Python, Jinja2, MS SQL, and Bootstrap. Streamlined deployment processes by automating manual tasks through the implementation of GIT, Jenkins, and batch scripting language.	**– ReactJS, Python, Flask, Jenkins**
-
-
+    -	Designed and implemented a RESTful Spring Boot translation API in Java that efficiently converts customer policy information, covering both auto and home policies, into subsidiary company standards. This adaptable solution effectively addresses regional variations spanning over 30 states, benefiting over 3000 daily active agents, and significantly enhancing the overall effectiveness of the quote retrieval process
+    -	Coordinated teams to develop a comprehensive web application using ReactJS and a Serverless architecture based on RESTful APIs, which incorporated AWS Lambda, S3, API Gateway, and DynamoDB. This initiative empowered agents to efficiently retrieve, upload, and search policy forms, resulting in a significant 30% boost in overall productivity.
+    -	Developed a deployment approval portal seamlessly integrated with OKTA OIDC for authentication. Employed a technology stack encompassing Python, Jinja2, MySQL, GIT, Jenkins, and batch scripting to automate manual deployment tasks, resulting in a substantial 20% reduction in release cycle times and overall efficiency enhancement.
+    - Optimized automated migration pipelines in Jenkins to successfully transfer 15TB of PDFs from a legacy system to on-premises servers, achieving a cost savings of approximately $10,000 on infrastructure per year.
+    - Developed a JavaScript-based GitHub App, seamlessly integrating a project management tool. Automated connection setup, executed customized validation checks, and updated the Checks API with success/failure as the conditions are met. Generated detailed reports on defects and user stories, enhancing traceability and streamlining collaboration for improved efficiency in enterprise-level development teams.
+    
 - company: Recondo Technology
   link: www.recondotech.com
   job_title: Software Developer intern
